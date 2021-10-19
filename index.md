@@ -69,13 +69,21 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|축구장|<img src="./img/축구장.png" width="500">|
-|2|골대|<img src="./img/골대.png" width="500">|
-|3|홍길동선수|<img src="./img/홍길동선수.png" height="300">|
-|4|골킵|<img src="./img/골킵.png" height="300">|
+|1|캐릭터|<img src="./img/축구장.png" width="500">|
+|2|맵(3가지)|<img src="./img/골대.png" width="500">|
+|3|오브젝트(퀴즈 및 물건)|<img src="./img/홍길동선수.png" height="300">|
+|4|UI|<img src="./img/골킵.png" height="300">|
 
 
 2. 파라미터(속성) 뽑아 보기
+1) 오브젝트 이름 : Player1,2
+|속성|영문명칭|설명|비고|
+|:----:|:------------:|:-----------------------------------:|:---:|
+|1|점프|<img src="./img/축구장.png" width="500">|
+|2|달리기|<img src="./img/골대.png" width="500">|
+|3|달리기 취소|<img src="./img/홍길동선수.png" height="300">|
+|4|앉기|<img src="./img/골킵.png" height="300">|
+
 
 # [게임흐름]
 <br> 
