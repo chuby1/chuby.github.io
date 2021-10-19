@@ -69,10 +69,10 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|캐릭터|<img src="./img/축구장.png" width="500">|
-|2|맵(3가지)|<img src="./img/골대.png" width="500">|
-|3|오브젝트(퀴즈 및 물건)|<img src="./img/홍길동선수.png" height="300">|
-|4|UI|<img src="./img/골킵.png" height="300">|
+|1|캐릭터|<img src="./img/무료 캐릭터.JPG" width="500">|
+|2|맵(3가지)|<img src="./img/동굴.JPG" width="500">|
+|3|오브젝트(퀴즈 및 물건)|<img src="./img/퀴즈1.JPG" height="300">|
+|4|UI|<img src="./img/게임느낌.JPG" height="300">|
 
 
 2. 파라미터(속성) 뽑아 보기
