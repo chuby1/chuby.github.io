@@ -70,8 +70,8 @@
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
 |1|캐릭터|<img src="./img/무료 캐릭터.JPG" width="500">|
-|2|맵(3가지)|<img src="./img/동굴.JPG" width="250">,<img src="./img/.JPG" width="250">|
-|3|오브젝트(퀴즈 및 물건)|<img src="./img/퀴즈1.JPG" height="300">|
+|2|맵(3가지)|<img src="./img/동굴.JPG" width="250">,<img src="./img/섫산.JPG" width="250">|
+|3|오브젝트(퀴즈 및 물건)|<img src="./img/퀴즈1.JPG" height="250">,<img src="./img/퀴즈 2.JPG" height="250">|
 |4|UI|<img src="./img/게임 느낌.JPG" height="300">|
 
 
