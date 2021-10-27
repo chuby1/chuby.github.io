@@ -372,7 +372,7 @@ Sol
 
 # [ 개발작업 ] <a name='9'></a>
 - 이미지  
-  <img src="./img/개발 일정.JPG" width="50%">
+  <img src="./img/개발일정.JPG" width="50%">
 
 
 
