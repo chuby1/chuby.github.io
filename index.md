@@ -54,7 +54,8 @@
 <br><br>
 
 # [관련 이미지 & 동영상] <a name='3'></a>
-
+- 이미지  
+   <img src="./img/예시.jpg" width="100%">
 
 <br><br>
 
