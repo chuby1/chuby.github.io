@@ -59,7 +59,8 @@
 <br><br>
 
 # [대표 이미지]
-
+- 이미지  
+  <img src="./img/게임 느낌.JPG" width="100%">
 
 
 <br><br>
