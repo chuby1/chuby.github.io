@@ -525,8 +525,8 @@ Sol
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|캐릭터|<img src="./img/무료 캐릭터.JPG" width="500">|
-|2|맵(2가지)|<img src="./img/미로.JPG" width="250">,<img src="./img/SmallerWorld 게임화면.JPG" width="250">|
+|1|캐릭터|<img src="./img/.JPG" width="500">|
+|2|맵(2가지)|<img src="./img/.JPG" width="250">,<img src="./img/SmallerWorld 게임화면.JPG" width="250">|
 |3|오브젝트(적 및 물건)|<img src="./img/.JPG" height="250">,<img src="./img/.JPG" height="250">|
 |4|UI|<img src="./img/SmallerWorld 메인화면.JPG" height="300">|
 
