@@ -454,7 +454,7 @@ Sol
 
 > ### 대표이미지 기반 :
 - 이미지  
-  <img src="./img/게임 느낌.JPG" width="100%">
+  <img src="./img/.JPG" width="100%">
   
 <br><br>  
 # [SmallerWorld 구성 요소] <a name ='24'></a>
