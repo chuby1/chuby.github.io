@@ -445,7 +445,7 @@ Sol
 
 # [대표 이미지]
 - 이미지  
-  <img src="./img/SmallerWorld 메인화면.JPG" width="100%">
+  <img src="./img/SmallerWorld 메인화면.jpg" width="100%">
 
 
 <br><br>
